@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="Asset Workspace">e8e2fc35530130106b86ddeeff7b126f</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>roopesh.sharma</sys_created_by>
+        <sys_created_on>2025-05-03 23:26:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>03562129c3d9e2104539ba2ed4013157</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_ux_page_property_03562129c3d9e2104539ba2ed4013157</sys_update_name>
+        <sys_updated_by>roopesh.sharma</sys_updated_by>
+        <sys_updated_on>2025-05-03 23:26:35</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_createnotes.e8e2fc35530130106b86ddeeff7b126f.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=03562129c3d9e2104539ba2ed4013157"/>
+</record_update>
